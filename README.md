@@ -1,14 +1,14 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ShreyasOpX/ShreyasOpX/main/dark_mode.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ShreyasOpX/ShreyasOpX/main/light_mode.svg">
-  <img alt="Shreyas's GitHub profile banner" src="https://raw.githubusercontent.com/ShreyasOpX/ShreyasOpX/main/light_mode.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ShreyasOpeX/ShreyasOpeX/main/dark_mode.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ShreyasOpeX/ShreyasOpeX/main/light_mode.svg">
+  <img alt="Shreyas's GitHub profile banner" src="https://raw.githubusercontent.com/ShreyasOpeX/ShreyasOpeX/main/light_mode.svg">
 </picture>
 
 <p align="center">
   <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://github.com/ShreyasOpX"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://github.com/ShreyasOpeX"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
   <a href="https://leetcode.com/u/Phoenix1808/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
-  <img src="https://komarev.com/ghpvc/?username=ShreyasOpX&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=ShreyasOpeX&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views" />
 </p>
 
 ### `$ whoami`
@@ -43,7 +43,7 @@ $ cat about.txt
 
 **Backend & APIs**
 
-<img src="https://skillicons.dev/icons?i=spring" alt="Spring Boot" /> <img src="https://img.shields.io/badge/Spring_Cloud-6DB33F?style=flat-square&logo=spring&logoColor=white" alt="Spring Cloud" /> <img src="https://img.shields.io/badge/Spring_AI-6DB33F?style=flat-square&logo=spring&logoColor=white" alt="Spring AI" /> <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white" alt="Spring Security" /> <img src="https://img.shields.io/badge/Spring_Data_JPA-6DB33F?style=flat-square&logo=spring&logoColor=white" alt="Spring Data JPA" /> <img src="https://img.shields.io/badge/REST_APIs-005571?style=flat-square" alt="REST APIs" /> <img src="https://img.shields.io/badge/gRPC-4285F4?style=flat-square" alt="gRPC" /> <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" alt="JWT" /> <img src="https://img.shields.io/badge/WebSockets-010101?style=flat-square" alt="WebSockets" />
+<img src="https://skillicons.dev/icons?i=spring" alt="Spring Boot" /> <img src="https://img.shields.io/badge/Spring_Cloud-6DB33F?style=flat-square&logo=spring&logoColor=white" alt="Spring Cloud" /> <i[...] 
 
 **Messaging & Caching**
 
@@ -51,15 +51,15 @@ $ cat about.txt
 
 **Databases**
 
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,cassandra" alt="PostgreSQL, MongoDB, MySQL, Cassandra" /> <img src="https://img.shields.io/badge/Neo4j-4581C3?style=flat-square&logo=neo4j&logoColor=white" alt="Neo4j" /> <img src="https://img.shields.io/badge/Apache_HBase-D22128?style=flat-square&logo=apache&logoColor=white" alt="Apache HBase" /> <img src="https://img.shields.io/badge/Apache_Hive-FDEE21?style=flat-square&logo=apache&logoColor=black" alt="Apache Hive" />
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,cassandra" alt="PostgreSQL, MongoDB, MySQL, Cassandra" /> <img src="https://img.shields.io/badge/Neo4j-4581C3?style=flat-square&logo[...]
 
 **AI & Agentic**
 
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangChain" /> <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langgraph&logoColor=white" alt="LangGraph" />
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangChain" /> <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-squa[...]
 
 **Cloud & DevOps**
 
-<img src="https://skillicons.dev/icons?i=docker,git,github" alt="Docker, Git, GitHub" /> <img src="https://img.shields.io/badge/AWS_S3-569A31?style=flat-square&logo=amazons3&logoColor=white" alt="AWS S3" /> <img src="https://img.shields.io/badge/AWS_EC2-FF9900?style=flat-square&logo=amazonec2&logoColor=white" alt="AWS EC2" /> <img src="https://img.shields.io/badge/Railway-0B0D0E?style=flat-square&logo=railway&logoColor=white" alt="Railway" />
+<img src="https://skillicons.dev/icons?i=docker,git,github" alt="Docker, Git, GitHub" /> <img src="https://img.shields.io/badge/AWS_S3-569A31?style=flat-square&logo=amazons3&logoColor=white" alt="AWS [...] 
 
 ---
 
@@ -67,10 +67,10 @@ $ cat about.txt
 
 | Project | Description | Stack |
 |---|---|---|
-| **[TradeSentry](https://github.com/ShreyasOpX/distributed-aml-platform)** | Distributed event-driven AML transaction monitoring platform - Kafka-based screening, risk scoring, and audit logging across independently scalable microservices | Java 21, Spring Boot, Kafka, gRPC, PostgreSQL, Redis, Docker |
-| **[MediSureAI](https://github.com/ShreyasOpX/MediSureAI)** | Self-reflective agentic RAG platform for healthcare & insurance with multi-path reasoning, self-critique, and citation-backed synthesis (Ollama + Groq hybrid) | Spring Boot, Spring AI, PostgreSQL, pgvector, React |
-| **[HelpLens](https://github.com/ShreyasOpX/HelpCrisis)** | AI-powered crisis response platform for real-time shelter/hospital/route data with a natural-language assistant | Spring Boot, Spring AI, Spring Security, JWT |
-| **[Gmail AI Reply Extension](https://github.com/ShreyasOpX/Email_response-generator)** | Chrome extension adding an AI Reply button to Gmail, backed by a Spring Boot API calling the Gemini API | Spring Boot, Gemini API, Chrome Extension |
+| **[TradeSentry](https://github.com/ShreyasOpeX/distributed-aml-platform)** | Distributed event-driven AML transaction monitoring platform - Kafka-based screening, risk scoring, and audit logging acro[...]|
+| **[MediSureAI](https://github.com/ShreyasOpeX/MediSureAI)** | Self-reflective agentic RAG platform for healthcare & insurance with multi-path reasoning, self-critique, and citation-backed synthesis ([...]|
+| **[HelpLens](https://github.com/ShreyasOpeX/HelpCrisis)** | AI-powered crisis response platform for real-time shelter/hospital/route data with a natural-language assistant | Spring Boot, Spring AI, S[...]|
+| **[Gmail AI Reply Extension](https://github.com/ShreyasOpeX/Email_response-generator)** | Chrome extension adding an AI Reply button to Gmail, backed by a Spring Boot API calling the Gemini API | Spr[...] 
 
 MediSureAI was published at SYNERGY 2026 (IC-SIIT) and is set to appear in a Scopus-indexed journal (Taylor & Francis, CRC Press).
 
@@ -80,19 +80,19 @@ MediSureAI was published at SYNERGY 2026 (IC-SIIT) and is set to appear in a Sco
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ShreyasOpX/ShreyasOpX/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ShreyasOpX/ShreyasOpX/output/github-contribution-grid-snake.svg">
-    <img alt="Snake animation of the contribution graph" src="https://raw.githubusercontent.com/ShreyasOpX/ShreyasOpX/output/github-contribution-grid-snake.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ShreyasOpeX/ShreyasOpeX/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ShreyasOpeX/ShreyasOpeX/output/github-contribution-grid-snake.svg">
+    <img alt="Snake animation of the contribution graph" src="https://raw.githubusercontent.com/ShreyasOpeX/ShreyasOpeX/output/github-contribution-grid-snake.svg">
   </picture>
 </p>
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ShreyasOpX&show_icons=true&theme=dark&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShreyasOpX&layout=compact&hide_border=true&theme=dark" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ShreyasOpeX&show_icons=true&theme=dark&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShreyasOpeX&layout=compact&hide_border=true&theme=dark" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShreyasOpX&hide_border=true&theme=dark" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShreyasOpeX&hide_border=true&theme=dark" />
 </p>
 
 ---
@@ -100,7 +100,7 @@ MediSureAI was published at SYNERGY 2026 (IC-SIIT) and is set to appear in a Sco
 ### `$ cat activity.log`
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ShreyasOpX&theme=github-dark" alt="Contribution activity graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ShreyasOpeX&theme=github-dark" alt="Contribution activity graph" />
 </p>
 
 ---
@@ -115,7 +115,7 @@ MediSureAI was published at SYNERGY 2026 (IC-SIIT) and is set to appear in a Sco
 
 ### `$ cat contact.txt`
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/ShreyasOpX)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/ShreyasOpeX)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/u/Phoenix1808/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](#)
 
