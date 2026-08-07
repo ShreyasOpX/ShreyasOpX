@@ -55,7 +55,7 @@ $ cat about.txt
 
 **AI & Agentic**
 
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangChain" /> <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-squa[...]
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangChain" /> <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&l[...] 
 
 **Cloud & DevOps**
 
@@ -126,3 +126,5 @@ The snake animation regenerates daily via .github/workflows/snake.yml and
 publishes to the "output" branch - that branch is created automatically
 the first time the workflow runs, you don't need to create it yourself.
 -->
+
+<!-- username fix: 2026-08-07 -->
