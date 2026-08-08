@@ -29,7 +29,7 @@ $ cat about.txt
   "role": "Software Engineer Intern @ Hampi Labs",
   "building": "Multi-tenant Hotel Management backend in Spring Boot 4.0",
   "focus": ["Kafka", "RabbitMQ", "Redis caching", "load balancing", "monoliths vs. microservices", "agentic RAG (LangChain / LangGraph)"],
-  "current_projects": ["TradeSentry", "MediSureAI", "HelpLens", "Gmail AI Reply Extension"]
+  "current_projects": ["TradeSentry", "MediSureAI", "HelpLens", "PRISM", "RouteX", "SentinelHub"]
 }
 ```
 
@@ -86,7 +86,9 @@ $ cat about.txt
 | **[TradeSentry](https://github.com/ShreyasOpeX/distributed-aml-platform)** | Distributed event-driven AML transaction monitoring platform - Kafka-based screening, risk scoring, and audit logging | Kafka, Spring Boot |
 | **[MediSureAI](https://github.com/ShreyasOpeX/MediSureAI)** | Self-reflective agentic RAG platform for healthcare & insurance with multi-path reasoning, self-critique, and citation-backed synthesis | Python, LangChain, FastAPI |
 | **[HelpLens](https://github.com/ShreyasOpeX/HelpCrisis)** | AI-powered crisis response platform for real-time shelter/hospital/route data with a natural-language assistant | Spring Boot, PostgreSQL |
-| **[Gmail AI Reply Extension](https://github.com/ShreyasOpeX/Email_response-generator)** | Chrome extension adding an AI Reply button to Gmail, backed by a Spring Boot API calling the Gemini API | Chrome Extension, Spring Boot |
+| **[PRISM](https://github.com/ShreyasOpeX/Prism-prism-)** | PRISM is an AI-powered policy retrieval & intelligence system that combines SRLM, Policy RAG, and agentic reasoning to answer policy/security questionnaires with explainable reasoning | Python, FastAPI, LangChain, S3 |
+| **[RouteX](https://github.com/ShreyasOpeX/RouteX)** | Kafka-based ride-dispatch learning application that demonstrates topics, partitions, consumer groups, dead-letter recovery, and observability | Java, Spring Boot, Kafka |
+| **[SentinelHub](https://github.com/ShreyasOpeX/SentinelHub)** | Real-time incident investigation platform showcasing REST edge, gRPC service contracts, Kafka eventing, collaborative analyst workflows, and case management | Java, Spring Boot, gRPC, Kafka |
 
 MediSureAI was published at SYNERGY 2026 (IC-SIIT) and is set to appear in a Scopus-indexed journal (Taylor & Francis, CRC Press).
 
@@ -143,4 +145,4 @@ publishes to the "output" branch - that branch is created automatically
 the first time the workflow runs, you don't need to create it yourself.
 -->
 
-<!-- username fix: 2026-08-07 -->
+<!-- username fix: 2026-08-08 -->
