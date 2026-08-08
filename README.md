@@ -83,12 +83,12 @@ $ cat about.txt
 
 | Project | Description | Stack |
 |---|---|---|
-| **[TradeSentry](https://github.com/ShreyasOpeX/distributed-aml-platform)** | Distributed event-driven AML transaction monitoring platform - Kafka-based screening, risk scoring, and audit logging | Kafka, Spring Boot |
-| **[MediSureAI](https://github.com/ShreyasOpeX/MediSureAI)** | Self-reflective agentic RAG platform for healthcare & insurance with multi-path reasoning, self-critique, and citation-backed synthesis | Python, LangChain, FastAPI |
+| **[TradeSentry](https://github.com/ShreyasOpeX/distributed-aml-platform)** | Distributed event-driven AML transaction monitoring platform — Kafka-based screening, risk scoring, and audit logging; includes Spring AI components, gRPC services and LangGraph-backed knowledge pipelines | Kafka, Spring Boot, Spring AI, gRPC, LangGraph |
+| **[MediSureAI](https://github.com/ShreyasOpeX/MediSureAI)** | Self-reflective agentic RAG platform for healthcare & insurance with multi-path reasoning, self-critique, and citation-backed synthesis — React frontend with Spring Boot backend, SpringAI integrations and an SRLM/RAG retrieval stack | React, Spring Boot, Spring AI, SRLM/RAG |
 | **[HelpLens](https://github.com/ShreyasOpeX/HelpCrisis)** | AI-powered crisis response platform for real-time shelter/hospital/route data with a natural-language assistant | Spring Boot, PostgreSQL |
 | **[PRISM](https://github.com/ShreyasOpeX/Prism-prism-)** | PRISM is an AI-powered policy retrieval & intelligence system that combines SRLM, Policy RAG, and agentic reasoning to answer policy/security questionnaires with explainable reasoning | Python, FastAPI, LangChain, S3 |
-| **[RouteX](https://github.com/ShreyasOpeX/RouteX)** | Kafka-based ride-dispatch learning application that demonstrates topics, partitions, consumer groups, dead-letter recovery, and observability | Java, Spring Boot, Kafka |
-| **[SentinelHub](https://github.com/ShreyasOpeX/SentinelHub)** | Real-time incident investigation platform showcasing REST edge, gRPC service contracts, Kafka eventing, collaborative analyst workflows, and case management | Java, Spring Boot, gRPC, Kafka |
+| **[RouteX](https://github.com/ShreyasOpeX/RouteX)** | Kafka-based ride-dispatch learning application that demonstrates topics, partitions, consumer groups, DLT recovery and observability | Java, Spring Boot, Kafka |
+| **[SentinelHub](https://github.com/ShreyasOpeX/SentinelHub)** | Real-time incident investigation platform showcasing REST edge, gRPC service contracts, Kafka eventing, collaborative analyst workflows and case management | Java, Spring Boot, gRPC, Kafka |
 
 MediSureAI was published at SYNERGY 2026 (IC-SIIT) and is set to appear in a Scopus-indexed journal (Taylor & Francis, CRC Press).
 
@@ -133,12 +133,11 @@ MediSureAI was published at SYNERGY 2026 (IC-SIIT) and is set to appear in a Sco
 
 ### `$ cat contact.txt`
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/ShreyasOpeX)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/u/Phoenix1808/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:shreyas.ricky41@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](#)
 
 <!--
-Replace the LinkedIn "#" above (and the LinkedIn badge in the hero row) with your actual profile URL.
+Replace the LinkedIn "#" above with your actual profile URL if you want to link your LinkedIn profile.
 The top banner regenerates daily via .github/workflows/build.yml (today.py).
 The snake animation regenerates daily via .github/workflows/snake.yml and
 publishes to the "output" branch - that branch is created automatically
