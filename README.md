@@ -43,7 +43,18 @@ $ cat about.txt
 
 **Backend & APIs**
 
-<img src="https://skillicons.dev/icons?i=spring" alt="Spring Boot" /> <img src="https://img.shields.io/badge/Spring_Cloud-6DB33F?style=flat-square&logo=spring&logoColor=white" alt="Spring Cloud" /> <i[...] 
+<!-- Spring Boot / JVM backend badges and icons -->
+<img src="https://skillicons.dev/icons?i=spring" alt="Spring Boot" />
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring&logoColor=white" alt="Spring Boot" />
+<img src="https://img.shields.io/badge/Spring_Cloud-6DB33F?style=flat-square&logo=spring&logoColor=white" alt="Spring Cloud" />
+<img src="https://img.shields.io/badge/Spring_Data_JPA-6DB33F?style=flat-square&logo=spring&logoColor=white" alt="Spring Data JPA" />
+<img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&logo=spring&logoColor=white" alt="Spring Security" />
+
+<!-- If you have individual Spring Boot microservices, list them as service badges below. Replace names as needed. -->
+<img src="https://img.shields.io/badge/backend-service-6DB33F?style=flat-square&logo=spring&logoColor=white" alt="backend-service" />
+<img src="https://img.shields.io/badge/auth-service-6DB33F?style=flat-square&logo=spring&logoColor=white" alt="auth-service" />
+
+---
 
 **Messaging & Caching**
 
@@ -51,15 +62,25 @@ $ cat about.txt
 
 **Databases**
 
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,cassandra" alt="PostgreSQL, MongoDB, MySQL, Cassandra" /> <img src="https://img.shields.io/badge/Neo4j-4581C3?style=flat-square&logo[...]
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,cassandra" alt="PostgreSQL, MongoDB, MySQL, Cassandra" /> <img src="https://img.shields.io/badge/Neo4j-4581C3?style=flat-square&logo=neo4j&logoColor=white" alt="Neo4j" />
 
 **AI & Agentic**
 
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangChain" /> <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&l[...] 
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangChain" /> <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=graphviz&logoColor=white" alt="LangGraph" />
 
 **Cloud & DevOps**
 
-<img src="https://skillicons.dev/icons?i=docker,git,github" alt="Docker, Git, GitHub" /> <img src="https://img.shields.io/badge/AWS_S3-569A31?style=flat-square&logo=amazons3&logoColor=white" alt="AWS [...] 
+<!-- Core tooling -->
+<img src="https://skillicons.dev/icons?i=docker,git,github" alt="Docker, Git, GitHub" />
+
+<!-- Kubernetes & related tooling -->
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubernetes" />
+<img src="https://img.shields.io/badge/Helm-0f3a78?style=flat-square&logo=helm&logoColor=white" alt="Helm" />
+<img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white" alt="Prometheus" />
+<img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white" alt="Grafana" />
+
+<!-- Cloud provider / storage -->
+<img src="https://img.shields.io/badge/AWS_S3-569A31?style=flat-square&logo=amazons3&logoColor=white" alt="AWS S3" />
 
 ---
 
@@ -67,10 +88,10 @@ $ cat about.txt
 
 | Project | Description | Stack |
 |---|---|---|
-| **[TradeSentry](https://github.com/ShreyasOpeX/distributed-aml-platform)** | Distributed event-driven AML transaction monitoring platform - Kafka-based screening, risk scoring, and audit logging acro[...]|
-| **[MediSureAI](https://github.com/ShreyasOpeX/MediSureAI)** | Self-reflective agentic RAG platform for healthcare & insurance with multi-path reasoning, self-critique, and citation-backed synthesis ([...]|
-| **[HelpLens](https://github.com/ShreyasOpeX/HelpCrisis)** | AI-powered crisis response platform for real-time shelter/hospital/route data with a natural-language assistant | Spring Boot, Spring AI, S[...]|
-| **[Gmail AI Reply Extension](https://github.com/ShreyasOpeX/Email_response-generator)** | Chrome extension adding an AI Reply button to Gmail, backed by a Spring Boot API calling the Gemini API | Spr[...] 
+| **[TradeSentry](https://github.com/ShreyasOpeX/distributed-aml-platform)** | Distributed event-driven AML transaction monitoring platform - Kafka-based screening, risk scoring, and audit logging | Kafka, Spring Boot |
+| **[MediSureAI](https://github.com/ShreyasOpeX/MediSureAI)** | Self-reflective agentic RAG platform for healthcare & insurance with multi-path reasoning, self-critique, and citation-backed synthesis | Python, LangChain, FastAPI |
+| **[HelpLens](https://github.com/ShreyasOpeX/HelpCrisis)** | AI-powered crisis response platform for real-time shelter/hospital/route data with a natural-language assistant | Spring Boot, PostgreSQL |
+| **[Gmail AI Reply Extension](https://github.com/ShreyasOpeX/Email_response-generator)** | Chrome extension adding an AI Reply button to Gmail, backed by a Spring Boot API calling the Gemini API | Chrome Extension, Spring Boot |
 
 MediSureAI was published at SYNERGY 2026 (IC-SIIT) and is set to appear in a Scopus-indexed journal (Taylor & Francis, CRC Press).
 
