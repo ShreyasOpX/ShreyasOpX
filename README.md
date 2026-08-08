@@ -44,15 +44,13 @@ $ cat about.txt
 **Backend & APIs**
 
 <!-- Spring Boot / JVM backend badges and icons -->
-<img src="https://skillicons.dev/icons?i=spring" alt="Spring Boot" />
-<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring&logoColor=white" alt="Spring Boot" />
-<img src="https://img.shields.io/badge/Spring_Cloud-6DB33F?style=flat-square&logo=spring&logoColor=white" alt="Spring Cloud" />
-<img src="https://img.shields.io/badge/Spring_Data_JPA-6DB33F?style=flat-square&logo=spring&logoColor=white" alt="Spring Data JPA" />
-<img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&logo=spring&logoColor=white" alt="Spring Security" />
-
-<!-- If you have individual Spring Boot microservices, list them as service badges below. Replace names as needed. -->
-<img src="https://img.shields.io/badge/backend-service-6DB33F?style=flat-square&logo=spring&logoColor=white" alt="backend-service" />
-<img src="https://img.shields.io/badge/auth-service-6DB33F?style=flat-square&logo=spring&logoColor=white" alt="auth-service" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=spring" alt="Spring Boot" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring&logoColor=white" alt="Spring Boot" />
+  <img src="https://img.shields.io/badge/Spring_Cloud-6DB33F?style=flat-square&logo=spring&logoColor=white" alt="Spring Cloud" />
+  <img src="https://img.shields.io/badge/Spring_Data_JPA-6DB33F?style=flat-square&logo=spring&logoColor=white" alt="Spring Data JPA" />
+  <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&logo=spring&logoColor=white" alt="Spring Security" />
+</p>
 
 ---
 
@@ -70,17 +68,14 @@ $ cat about.txt
 
 **Cloud & DevOps**
 
-<!-- Core tooling -->
-<img src="https://skillicons.dev/icons?i=docker,git,github" alt="Docker, Git, GitHub" />
-
-<!-- Kubernetes & related tooling -->
-<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubernetes" />
-<img src="https://img.shields.io/badge/Helm-0f3a78?style=flat-square&logo=helm&logoColor=white" alt="Helm" />
-<img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white" alt="Prometheus" />
-<img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white" alt="Grafana" />
-
-<!-- Cloud provider / storage -->
-<img src="https://img.shields.io/badge/AWS_S3-569A31?style=flat-square&logo=amazons3&logoColor=white" alt="AWS S3" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=docker,git,github" alt="Docker, Git, GitHub" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubernetes" />
+  <img src="https://img.shields.io/badge/Helm-0f3a78?style=flat-square&logo=helm&logoColor=white" alt="Helm" />
+  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white" alt="Prometheus" />
+  <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white" alt="Grafana" />
+  <img src="https://img.shields.io/badge/AWS_S3-569A31?style=flat-square&logo=amazons3&logoColor=white" alt="AWS S3" />
+</p>
 
 ---
 
